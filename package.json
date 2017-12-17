@@ -1,0 +1,23 @@
+{
+  "name": "react-native-android-piliplayer",
+  "version": "0.0.1",
+  "description": "基于pili的android player",
+  "main": "Player.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2534290808/react-native-android-piliplayer.git"
+  },
+  "keywords": [
+    "Player",
+    "pili"
+  ],
+  "author": "lmy2534290808",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2534290808/react-native-android-piliplayer/issues"
+  },
+  "homepage": "https://github.com/2534290808/react-native-android-piliplayer#readme"
+}
