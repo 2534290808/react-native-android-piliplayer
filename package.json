@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "react-native-android-piliplayer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "基于pili的android player",
   "main": "Player.js",
   "scripts": {
