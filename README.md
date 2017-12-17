@@ -65,4 +65,4 @@ export default class player extends Component {
     ...View.propTypes,
 ```
 ## 示例：
-<img src="https://github.com/2534290808/react-native-android-piliplayer/blob/master/images/Screenshot_1513500300.png" width = "300"  alt="图片名称" align=center />
+<img src="https://github.com/2534290808/react-native-android-piliplayer/blob/master/Screenshot_1513500300.png" width = "300"  alt="图片名称" align=center />
