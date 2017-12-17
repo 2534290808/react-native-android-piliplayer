@@ -3,7 +3,7 @@
 工程目录下运行 npm install --save react-native-android-piliplayer 或者 yarn add react-native-android-piliplayer(已经安装了yarn)
 ## 第二步
 运行 react-native link react-native-android-piliplayer
-## 第三部使用
+## 第三步使用
 在工程中导入：
 ```bash
 import React, { Component } from 'react';
