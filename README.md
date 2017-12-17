@@ -39,6 +39,7 @@ export default class player extends Component {
 注意在使用中时应设置组件的宽高;
 
 ## 属性：
+
 ```bash
  source: PropTypes.shape({                          // 是否符合指定格式的
         uri: PropTypes.string.isRequired,//视频路径
@@ -62,4 +63,6 @@ export default class player extends Component {
     onPlayerError: PropTypes.func,//视频播放错误
     onPlaying: PropTypes.func,//视频播放中
     ...View.propTypes,
-    
+```
+## 示例：
+<img src="https://github.com/2534290808/react-native-android-piliplayer/blob/master/images/Screenshot_1513500300.png" width = "300"  alt="图片名称" align=center />
